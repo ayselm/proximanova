@@ -97,7 +97,7 @@ h2{
   position: relative;
 
 
-color: green;
+color: #F2D73D;
 font-family: Proxima Nova;
 font-style: normal;
 font-weight: bold;
@@ -265,4 +265,12 @@ margin-top: 80px;
     font-weight: bold;
     font-size: 155px;
     color: #F2D73D;
+  }
+
+  p20 {
+    font-family: Proxima Nova;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 700px;
+    color: black;
   }
