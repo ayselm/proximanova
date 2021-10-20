@@ -3,13 +3,13 @@ h1 {
 width: 1049px;
 height: 508px;
 margin-left: 150px;
-margin-top: 150px;
+margin-top: -1380px;
 
 
 font-family: Proxima Nova;
 font-style: normal;
 font-weight: bold;
-font-size: 288px;
+font-size: 320px;
 line-height: 70.8%;
 /* or 204px */
 }
@@ -22,6 +22,7 @@ body{
   position: relative;
   padding: 1px;
 
+
 }
 body::before{
   content: "";
@@ -29,7 +30,7 @@ body::before{
   left: 0;
   top: 0;
   right: 0;
-   background: url( '../images/макет.jpg');
+   /* background: url( '../images/макет.jpg'); */
   width: 100%;
   height: 100%;
   background-size: 100% auto ;
@@ -40,25 +41,228 @@ body::before{
 
 
 .first{
-  position: absolute;
+  position: relative;
 width: 1854px;
 height: 1115px;
-left: -318px;
-top: 367px;
+margin-left: -318px;
+margin-top: 600px;
 }
 
 
 
 
 .rectangle {
+  position: relative;
   width: 100px;
-  margin-left: 650px;
-  margin-top: 500px;
-  background: red;
-  height: 200px;
+  margin-left: 800px;
+  margin-top: -610px;
+  background: #FDFAF3;
+  height: 150px;
 }
 
 .корабль.svg{
   margin-top: 200px;
 
 }
+.Star {
+position: relative;
+width: 100px;
+margin-left: 780px;
+margin-top: -180px;
+
+height: 200px;
+}
+
+.boat {
+  position: relative;
+
+  margin-left: 650px;
+  margin-top: 200px;
+
+
+}
+
+.rectangle2 {
+  position: relative;
+  width: 100%;
+
+  margin-top: 80px;
+  background: black;
+  height: 2500px;
+  z-index: -1;
+  padding: 1px;
+}
+
+h2{
+  position: relative;
+
+
+color: green;
+font-family: Proxima Nova;
+font-style: normal;
+font-weight: bold;
+font-size: 320px;
+line-height: 70.8%;
+/* or 204px */
+}
+
+.group {
+  position: relative;
+  width: 100%;
+
+  overflow: hidden;
+}
+.font1 {
+  position: relative;
+  margin-left: -20px;
+  margin-top: 700px;
+  opacity: 50%;
+
+}
+.font2{
+position: relative;
+margin-top: -1100px;}
+
+h4 {
+  position: relative;
+
+
+  color: white;
+  font-family: Proxima Nova;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 50px;
+  line-height: 70.8%;
+  /* or 204px */
+  }
+  h3 {
+    position: relative;
+
+
+  color: white;
+  font-family: Proxima Nova;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 100px;
+  line-height: 70.8%;
+  /* or 204px */
+  }
+  .poloski {
+
+    position: relative;
+    background: white;
+    width: 10px;
+    height: 400px;
+
+  }
+
+  .headline {
+    display: inline-block;
+  }
+
+  .headline2 {
+    display: inline-block;
+    margin-left: 50px;
+  }
+  .union {
+    margin-left: -1000px;
+    margin-top: -100px;
+  }
+
+.belenkiye {
+  position:relative;
+    width: 100%;
+    height: 2000px;
+
+    margin-top: -1500px;
+}
+  .bel1 {
+    position:relative;
+      display: inline-block;
+      width: 333px;
+      height: 178px;
+background: white;
+margin-bottom: -100px;
+margin-left: 70px;
+  }
+
+  p{
+    font-family: Proxima Nova;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 180px;
+    color: #F2D73D;
+  }
+  .bel2 {
+    position:relative;
+      display: inline-block;
+      width: 606px;
+      height: 215px;
+background: white;
+margin-right: 300px
+  }
+
+  p1 {
+    font-family: Proxima Nova;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 100px;
+    color: black;
+  }
+
+  .bel3 {
+    position:relative;
+      display: inline-block;
+      width: 150px;
+      height: 100px;
+background: green;
+margin-left: 400px;
+margin-top: 80px;
+  }
+  .bel4 {
+    position:relative;
+      display: inline-block;
+      width: 624px;
+      height: 362px;
+  background: green;
+  margin-left: 400px;
+  margin-top: 80px;
+  }
+  .bel5 {
+    position:relative;
+      display: inline-block;
+      width: 196px;
+      height: 146px;
+  background: green;
+  margin-left: -899px;
+  margin-top: 80px;
+  }
+
+  p5 {
+    font-family: Proxima Nova;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 155px;
+    color: #84B2F7;
+  }
+
+
+
+  .bel6 {
+    position:relative;
+      display: inline-block;
+      width: 196px;
+      height: 146px;
+  background: green;
+  margin-left: -899px;
+  margin-top: 80px;
+  }
+
+  p6
+  {
+    font-family: Proxima Nova;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 155px;
+    color: #F2D73D;
+  }
