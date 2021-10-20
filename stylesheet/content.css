@@ -1,0 +1,64 @@
+h1 {
+  position: relative;
+width: 1049px;
+height: 508px;
+margin-left: 150px;
+margin-top: 150px;
+
+
+font-family: Proxima Nova;
+font-style: normal;
+font-weight: bold;
+font-size: 288px;
+line-height: 70.8%;
+/* or 204px */
+}
+body{
+  width: 100%;
+  margin: 0;
+  background: #FDFAF3;
+  height: 100%;
+  display: block;
+  position: relative;
+  padding: 1px;
+
+}
+body::before{
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 0;
+  right: 0;
+   background: url( '../images/макет.jpg');
+  width: 100%;
+  height: 100%;
+  background-size: 100% auto ;
+  display: block;
+   opacity: .5;
+}
+
+
+
+.first{
+  position: absolute;
+width: 1854px;
+height: 1115px;
+left: -318px;
+top: 367px;
+}
+
+
+
+
+.rectangle {
+  width: 100px;
+  margin-left: 650px;
+  margin-top: 500px;
+  background: red;
+  height: 200px;
+}
+
+.корабль.svg{
+  margin-top: 200px;
+
+}
