@@ -17,7 +17,7 @@ body{
   width: 100%;
   margin: 0;
   background: #FDFAF3;
-  height: 100%;
+  height: 10500px;
   display: block;
   position: relative;
   padding: 1px;
@@ -32,7 +32,7 @@ body::before{
   right: 0;
    /* background: url( '../images/макет.jpg'); */
   width: 100%;
-  height: 100%;
+  height: 10500px;
   background-size: 100% auto ;
   display: block;
    opacity: .5;
@@ -44,7 +44,7 @@ body::before{
   position: relative;
 width: 1854px;
 height: 1115px;
-margin-left: -318px;
+margin-left: -118px;
 margin-top: 600px;
 }
 
@@ -267,10 +267,210 @@ margin-top: 80px;
     color: #F2D73D;
   }
 
+
+.bukvi1 {
+  display: inline-block;
+  margin-left: 250px;
+  margin-top: -900px;
+
+}
   p20 {
     font-family: Proxima Nova;
     font-style: normal;
     font-weight: bold;
     font-size: 700px;
     color: black;
+
+  }
+
+  .circle1{
+
+    position: relative;
+    background-color: #F4DD5D;
+    margin: 20px auto;
+    width: 400px;
+    height: 400px;
+    border-radius: 200px;
+    margin-top: -900px;
+
+
+  }
+
+
+  .bukvi2 {
+    display: inline-block;
+    margin-left: 250px;
+    margin-top: -900px;
+
+  }
+  p21 {
+    font-family: Proxima Nova;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 700px;
+    color: black;
+
+  }
+  .circle2{
+
+    position: relative;
+    background-color: #84B2F7;
+    margin: 20px auto;
+    width: 400px;
+    height: 400px;
+    border-radius: 200px;
+
+
+  }
+  .bukvi3 {
+    display: inline-block;
+    margin-left: 250px;
+    margin-top: -900px;
+
+  }
+  p22 {
+    font-family: Proxima Nova;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 700px;
+    color: black;
+
+  }
+  .circle3{
+
+    position: relative;
+    background-color: #F4DD5D;
+    margin: 20px auto;
+    width: 400px;
+    height: 400px;
+    border-radius: 200px;
+
+
+  }
+  .bukvi4 {
+    display: inline-block;
+    margin-left: 250px;
+    margin-top: -200px;
+
+  }
+  p23 {
+    font-family: Proxima Nova;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 700px;
+    color: black;
+
+  }
+  .circle4{
+
+    position: relative;
+    background-color: #84B2F7;
+    margin: 20px auto;
+    width: 400px;
+    height: 400px;
+    border-radius: 200px;
+
+
+  }
+  .bukvi5 {
+    display: inline-block;
+    margin-left: 250px;
+    margin-top: -200px;
+
+  }
+  p24 {
+    font-family: Proxima Nova;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 700px;
+    color: black;
+
+  }
+  .circle5{
+
+    position: relative;
+    background-color: #84B2F7;
+    margin: 20px auto;
+    width: 400px;
+    height: 400px;
+    border-radius: 200px;
+
+
+  }
+  .bukvi6 {
+    display: inline-block;
+    margin-left: 250px;
+    margin-top: 100px;
+
+  }
+
+  .bukvi7 {
+    display: inline-block;
+    margin-left: 250px;
+margin-top: -900px;
+
+  }
+  p25 {
+    font-family: Proxima Nova;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 700px;
+    color: black;
+
+  }
+  .circle6{
+
+    position: relative;
+    background-color: #F4DD5D;
+    margin: 20px auto;
+    width: 400px;
+    height: 400px;
+    border-radius: 200px;
+
+
+  }
+
+  .t1981{
+    position:relative;
+      display: inline-block;
+
+
+  }
+  .bluecircle{
+
+    position: relative;
+    background-color: #84B2F7;
+    margin-left: 100px;
+    margin-top: -2000px;
+    width: 400px;
+    height: 400px;
+    border-radius: 200px;
+
+
+  }
+  .image1{
+
+    position: relative;
+    margin-top: -700px;
+    margin-left: 200px;
+  }
+
+  .yellowrectangle{
+    position: relative;
+    width: 386px;
+    margin-left: 80px;
+    margin-bottom: 810px;
+    background: #yellow;
+    height: 130px;
+
+  }
+
+  p28{
+    color: green;
+    font-family: Proxima Nova;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 70.8%;
+
   }
