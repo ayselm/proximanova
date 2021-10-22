@@ -431,6 +431,17 @@ margin-top: -900px;
   height: 3000px;
 }
 
+.titri {
+
+      position: relative;
+
+    margin-left: 120px;
+    margin-bottom: -200px;
+    height: auto;
+    width: 1280px;
+}
+
+
 .z1
 {
   background-image: url(../images/blackvector.png);
@@ -562,3 +573,21 @@ margin-bottom: -600px;
     margin-left:100px;
     margin-top:-2800px;
     }
+
+
+.info6 {
+  font-family: Proxima Nova;
+  position: relative;
+  color: #F2D73D;
+  font-size: 24px;
+  margin-left: 18px;
+  margin-top: 580px;
+}
+.info {
+  font-family: Proxima Nova;
+  position: relative;
+  color: #F2D73D;
+  font-size: 24px;
+  margin-left: 108px;
+  margin-top: 580px;
+}
